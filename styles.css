@@ -3,9 +3,11 @@
   font-family: 'Poppins', sans-serif;
 }
 
+
 body{
   background-color:white;
 }
+
 #container {
   width: 500px;
   margin: 0 auto;
@@ -23,7 +25,6 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  /* border: 1px solid #e5e5e5; */
 }
 ul li {
   padding: 15px;
@@ -51,7 +52,6 @@ ul li:hover {
 
 #list label:before {
   content:'';
-  /* -webkit-appearance: none; */
   background-color: transparent;
   border: 2px solid #0079bf;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
