@@ -1,6 +1,6 @@
 # Todo List
 
-This project is made using basic HTML, CSS and Javascript.
+This project is developed using basic HTML, CSS and Javascript.
 # Functions (in code)
 	- addTodo
 	- deleteTodo
